@@ -1,0 +1,4 @@
+# seafile volumes
+.env
+mysql/
+shared/
